@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bit2016.implicitintent">
 
-    <!-- 전화 걸기 위한 퍼미션 추가!1212dfadsfsfsfsdfsadfdfa2-->
+    <!-- 전화 걸기 위한 퍼미션 추가!-->
     <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
